@@ -7,6 +7,9 @@ body {
   
 }
 
+.navbar-toggler {
+    color-adjust: black;
+}
 h1 {
     font-family: 'Roboto Slab', serif;
     letter-spacing: 1px ;
