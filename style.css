@@ -1,15 +1,14 @@
-jumbotron-fluid {
-    
-    height: 100 ;
-    margin: 0;
-    background-image: url ("C:\Users\AyDy\desktop\class\homework\bootstrap-portfolio\images\AB (2).jpg)" ;
-}
+
 .navbar {
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.6);
     color: black
   
 }
 
+body {
+    background-image: url("images/meditation-1384758_1920.jpg");
+    background-size: cover;
+}
 .navbar-toggler {
     color-adjust: black;
 }
@@ -21,10 +20,7 @@ h1 {
 
 
 
-.banner {
-    width: 100%;
 
-}
 .bio {
 margin: 0;
 background: white;
@@ -37,14 +33,11 @@ left: 300px;
 
 }
 
-.container {
-    margin: 0;
-    background: white;
-    position: absolute;
-    height: 800px;
+.jumbotron {
+    display: flex;
+    flex-direction: center;
+    height: 500px;
     width: 960px;
-    top: 30%;
-    left: 300px;
 }
 
 
