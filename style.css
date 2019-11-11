@@ -1,5 +1,8 @@
-body {
-    overflow-x: hidden;
+jumbotron-fluid {
+    
+    height: 100 ;
+    margin: 0;
+    background-image: url ("C:\Users\AyDy\desktop\class\homework\bootstrap-portfolio\images\AB (2).jpg)" ;
 }
 .navbar {
     background: rgba(255, 255, 255, 0.8);
