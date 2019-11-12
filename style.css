@@ -2,11 +2,13 @@
 .navbar {
     background: rgba(8, 4, 4, 0.4);
     color: black;
+    padding:10px;
+    margin:0;
     
 }
  
 ul { 
-    padding-right: 355px;
+    padding-right: 370px;
     padding-top: 15px;
     font-family: 'Roboto Slab', serif;
     letter-spacing: 1px ;
@@ -25,17 +27,18 @@ h1 {
     font-family: 'Roboto Slab', serif;
     letter-spacing: 1px ;
     font-weight: bold ;
-    padding-left: 190px;
     color:  rgb(227, 219, 230);
+    padding-left: 200px;
 
 }
 
 h2 {
     display: flex;
     align-content: center;
-    width: 880px;
+    width: 900px;
     padding-top: 8px;
     padding-bottom: 10px ;
+    padding-left:5px;
     border-bottom: 1px solid lightgray;
     
   
@@ -47,13 +50,15 @@ h2 {
 
 .container {
     display: flex;
-    flex-direction: row;
+    align-content: center;
     height: 500px;
     width: 960px;
     background-color: white;
-    padding-right: 15px;
-    padding-left: 2px;
-    margin-bottom:400px ;
+    margin-bottom:400px;
+    padding-right: 100px;
+    padding-left: 20px;
+
+ ;
 }
 
 
@@ -65,15 +70,15 @@ h2 {
 
 
 .card-deck {
-    height: 40px;
-    width: 910px;
+    height: 70px;
+    width: 800px;
     padding-top: 20px;
 }
 
 .card-body {
      position: absolute;
      bottom: 20px;
-     width: 272px;
+     width: 236px;
      text-align: center;
      background: rgb(182, 22, 128);
     
