@@ -1,17 +1,9 @@
 
-.navbar {
-    background: rgba(8, 4, 4, 0.4);
-    color: black;
-    padding:10px;
-    margin:0;
-    
-}
- 
 ul { 
-    padding-right: 370px;
-    padding-top: 15px;
+    padding-right: 20%;
     font-family: 'Roboto Slab', serif;
     letter-spacing: 1px ;
+    font-weight: bold
 }
 body {
     background-image: url("images/meditation-1384758_1920.jpg");
@@ -21,14 +13,12 @@ body {
     
 }
 
-h1 {
-    display: flex;
-    align-content: center;
+.navbar-text{
     font-family: 'Roboto Slab', serif;
     letter-spacing: 1px ;
+    font-size: 300%;
     font-weight: bold ;
     color:  rgb(227, 219, 230);
-    padding-left: 200px;
 
 }
 
